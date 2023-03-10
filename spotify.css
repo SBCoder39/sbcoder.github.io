@@ -1,0 +1,252 @@
+body
+{
+  background-size: cover;
+}
+
+#box
+{
+	width: 450px;
+	height: 620px;
+	background: black;
+	border-radius:20px;
+	position: absolute;
+	left: 35%;
+	margin:0%;
+
+}
+
+img
+{
+	border-radius: 80%;
+	position: absolute;
+	left: 25%;
+	top: 3%;
+	
+}
+
+h1
+{
+	color: #1db954;
+	position: absolute;
+	left: 43%;
+	top: 3%;
+	font-family: cursive;
+}
+
+h3
+{
+	color: white;
+	font-size: 33px;
+	position: absolute;
+	top:10%;
+	left: 19%;
+	font-family: cursive;
+}
+
+#box input[type="text"]
+{
+	width: 300px;
+	height: 30px;
+	position: absolute;
+	top:23%;
+	font-size: px;
+	outline: none;
+	background: lightgray;
+	color: black;
+	border-bottom: 1px solid;
+	left: 15%;
+	font-family: cursive;
+	
+
+}
+
+#box input[type="password"]
+{
+	width: 300px;
+	height: 30px;
+	position: absolute;
+	top:30%;
+	font-size: px;
+	outline: none;
+	background:lightgray;
+	color: black;
+	left: 15%;
+	border-bottom: 1px solid;
+	font-family: cursive;
+}
+
+
+#box a
+{
+	color: gray;
+	position: absolute;
+	top: 37%;
+	left: 15%;
+	font-family: cursive bold;
+}
+
+#box a:hover
+{
+	color: red;
+}
+
+#box p
+{
+	color: gray;
+	position: absolute;
+	top: 39%;
+	left: 15%;
+	font-family: cursive;
+}
+
+#box input[type="checkbox"]
+{
+	position: absolute;
+	top: 40%;
+	left: 80%;
+	width: 20px;
+	height: 20px;
+	
+}
+
+#box input[type="button"]
+{
+	width: 300px;
+	margin-left: 20px;
+   border: none;
+   outline: none;
+   height: 40px;
+   font-size: 18px;
+   border-radius: 20px;
+   position: absolute;
+   top: 48%;
+   left: 12%;
+   font-family: cursive;
+
+}
+
+#box input[type="button"]:hover
+{
+	cursor: pointer;
+	background: green;
+	color: white;
+}
+
+#box p1
+{
+	color: gray;
+	position: absolute;
+	top: 56%;
+	left: 8%;
+	font-family: arial;
+}
+
+.img1
+{
+	position: absolute;
+	top: 62%;
+	width: 35px;
+	left: 41%;
+	margin: 2px;
+}
+
+#box2 input[type="button"]
+{
+  width: 300px;
+  height: 40px;
+  border-radius: 50px;
+  position: absolute;
+  top: 62%;
+  left: 40%;
+  background: transparent;
+  border-color: white;
+  font-family: cursive;
+}
+
+#box2 input[value="Continue with Google"]
+{
+	color: white;
+}
+
+.img2
+{
+	position: absolute;
+	top: 71%;
+	width: 35px;
+	left: 41%;
+	margin: 2px;
+}
+
+#box3 input[type="button"]
+{
+  width: 300px;
+  height: 42px;
+  border-radius: 50px;
+  position: absolute;
+  top: 71%;
+  left: 40%;
+  background: transparent;
+  border-color: white;
+  font-family: cursive;
+}
+
+#box3 input[value="Continue with Facebook"]
+{
+	color: white;
+}
+
+.img3
+{
+	position: absolute;
+	top: 81%;
+	width: 35px;
+	left: 41%;
+	margin: 2px;
+}
+
+#box4 input[type="button"]
+{
+  width: 300px;
+  height: 42px;
+  border-radius: 50px;
+  position: absolute;
+  top: 81%;
+  left: 40%;
+  background: transparent;
+  border-color: white;
+  font-family: cursive;
+}
+
+#box4 input[value="Continue with Apple"]
+{
+	color: white;
+}
+
+#signup 
+{
+	position: absolute;
+	top: 88%;
+	left: 43%;
+	font-family: cursive;
+}
+
+#signup p
+{
+	color: gray;
+}
+
+#signup a
+{
+  color: gray;
+}
+
+#signup a p
+{
+	text-align: center;
+	text-decoration: none;
+}
+
+.a
+{
+	text-decoration: none;
+}
